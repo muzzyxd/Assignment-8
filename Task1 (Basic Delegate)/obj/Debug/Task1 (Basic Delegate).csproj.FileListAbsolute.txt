@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\bin\Debug\Task1 (Basic Delegate).exe.config
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\bin\Debug\Task1 (Basic Delegate).exe
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\bin\Debug\Task1 (Basic Delegate).pdb
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\obj\Debug\Task1 (Basic Delegate).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\obj\Debug\Task1 (Basic Delegate).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\obj\Debug\Task1 (Basic Delegate).exe
+C:\Users\user\source\repos\Task1 (Basic Delegate)\Task1 (Basic Delegate)\obj\Debug\Task1 (Basic Delegate).pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\obj\Debug\Task3 (HashTables).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\obj\Debug\Task3 (HashTables).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\bin\Debug\Task3 (HashTables).exe.config
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\bin\Debug\Task3 (HashTables).exe
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\bin\Debug\Task3 (HashTables).pdb
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\obj\Debug\Task3 (HashTables).exe
+C:\Users\user\source\repos\Task3 (HashTables)\Task3 (HashTables)\obj\Debug\Task3 (HashTables).pdb
